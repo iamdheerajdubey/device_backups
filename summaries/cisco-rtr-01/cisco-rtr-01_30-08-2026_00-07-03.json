@@ -1,0 +1,16 @@
+{
+  "summary": [
+    "No meaningful configuration change detected."
+  ],
+  "risk": "NONE",
+  "important_changes": [],
+  "impact": "Current configuration matches the previous snapshot after ignoring known volatile header lines.",
+  "rollback_notes": "No rollback required.",
+  "analysis_mode": "no-change",
+  "current_file": "cisco-rtr-01_30-08-2026_00-07-03.cfg",
+  "previous_file": "cisco-rtr-01_29-08-2026_23-31-40.cfg",
+  "device": "cisco-rtr-01",
+  "host": "172.16.11.1",
+  "backup_time": "2026-08-30T00:07:03",
+  "diff": ""
+}
